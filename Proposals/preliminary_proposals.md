@@ -22,7 +22,7 @@ Nonetheless, I found the following dataset that has been scraped and available.
 Getting the data
 
 
-# 2. What is the next Unicorn?: predicting start-up's fundraising activity
+# 2. Which start-up is the next Unicorn?: predicting start-up's fundraising activity
 
 ## About
 Crunchbase is my go-to source when I want to check out any start-ups and I believe there is good information provided by the site such as the company's info, its social media, its latest news, its founders, its investors and particularly the amount of funding it has had.
