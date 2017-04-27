@@ -44,6 +44,8 @@ Is there a formula of success? Can we use data to streamline and automate this p
 ## Presentation
 I hope to create a web app to allow users to input a company URL on crunchbase and able to return my prediction. Or users can sign up to receive one company's recommendation per day
 
+Or perhaps, investors can input their names and I can recommend start-ups that might suit their "taste"
+
 ## Data
 I'm planning to scrape primarily from Crunchbase, but I think I might get some great info from angelist and incubators' sites too.
 - Crunchbase
