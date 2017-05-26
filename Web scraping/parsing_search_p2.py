@@ -112,7 +112,7 @@ def parse_search_results():
     # df.to_csv('urls_p2.csv')
     urls_table = db['urls']
     # urls_table = update_table(urls_table, links, states, ids, states)
-    df = pd.read_csv('unscraped_p2.csv') # to update for each instance
+    df = pd.read_csv('unscraped_p8.csv') # to update for each instance
     regids = df.id
     urls_table = update_html_to_table(urls_table, regids) # Remember to change 'table' to 'urls_table' later
     return df
